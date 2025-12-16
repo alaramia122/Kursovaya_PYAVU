@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Kursovaya_PYAVU/Kursovaya_PYAVU.vcxproj" />
+  <Project Path="Kursovaya_PYAVU/Kursovaya_PYAVU.vcxproj" Id="7f064eed-1b1e-41e5-84ac-3f5226ee55ac" />
 </Solution>
